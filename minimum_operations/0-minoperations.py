@@ -2,6 +2,8 @@
 """
 Minimum operations to reach n characters
 """
+
+
 def minOperations(n):
     """
     Calculate the minimum number of operations to get n 'H' characters.
