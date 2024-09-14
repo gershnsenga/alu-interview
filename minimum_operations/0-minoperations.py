@@ -9,7 +9,7 @@ the minimum number of operations needed to achieve n 'H' characters, starting
 with a single 'H'.
 """
 
-def min_operations(n):
+def minOperations(n):
     """
     Calculate the minimum number of operations to get n 'H' characters.
 
@@ -49,5 +49,5 @@ def min_operations(n):
 if __name__ == "__main__":
     test_cases = [21, 19170307, 972, 1, 0, -12, 2147483640]
     for case in test_cases:
-        result = min_operations(case)
+        result = minOperations(case)
         print(f"n = {case}: {result} operations")
