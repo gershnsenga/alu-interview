@@ -12,3 +12,4 @@ if __name__ == "__main__":
     print(rain(walls))
     walls= [0, 2, 1, 0, 1, 3, 1, 2, 1, 1, 2, 1]
     print(rain(walls))
+
