@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 """
-The program to calculate the square units of the water between the walls after it rains.
+The program to calculate the square units of the
+water between the walls after it rains.
 """
+
 
 def rain(walls):
     if not walls:
